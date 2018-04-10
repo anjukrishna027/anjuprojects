@@ -11,4 +11,5 @@ package hrmanager;
  */
 public class Users {
     
+    int s=1;
 }
